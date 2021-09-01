@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "hello",
+      "lastname": "philippe",
+      "gender": "philippe",
+      "birth": "philippe"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
